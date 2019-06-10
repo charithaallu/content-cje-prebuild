@@ -21,3 +21,5 @@ node {
       archiveArtifacts 'index.jsp'
    }
 }
+
+tester
